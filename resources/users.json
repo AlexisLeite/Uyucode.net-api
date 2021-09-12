@@ -1,0 +1,70 @@
+{
+  "Alexis": {
+    "name": "Alexis",
+    "pass": "Alexis",
+    "avatar": "/images/avatar_38.png",
+    "score": 8,
+    "hash": "ebd873e7974ec5629f278d0c3d1380a0"
+  },
+  "Alito": {
+    "name": "Alito",
+    "pass": "Alito",
+    "avatar": "/images/avatar_30.png",
+    "score": 7
+  },
+  "Pipisita": {
+    "name": "Pipisita",
+    "pass": "Pipisita",
+    "avatar": "/images/avatar_07.png",
+    "score": 6
+  },
+  "Pepe": {
+    "name": "Pepe",
+    "pass": "Pepe",
+    "avatar": "/images/avatar_03.png",
+    "score": 1
+  },
+  "Juancho": {
+    "name": "Juancho",
+    "pass": "Juancho",
+    "avatar": null,
+    "score": 0
+  },
+  "Armando": {
+    "name": "Armando",
+    "pass": "Armando",
+    "avatar": "/images/avatar_09.png",
+    "score": 5
+  },
+  "Robert": {
+    "name": "Robert",
+    "pass": "Robert",
+    "avatar": "/images/avatar_18.png",
+    "score": 2
+  },
+  "Mirco": {
+    "name": "Mirco",
+    "pass": "Mirco",
+    "avatar": "/images/avatar_18.png",
+    "score": 3
+  },
+  "Fabian": {
+    "name": "Fabian",
+    "pass": "Fabian",
+    "avatar": "/images/avatar_38.png",
+    "score": 4
+  },
+  "Gecho": {
+    "name": "Gecho",
+    "pass": "Gecho",
+    "avatar": "/images/avatar_09.png",
+    "score": 5
+  },
+  "Fabio": {
+    "name": "Fabio",
+    "pass": "Fabio",
+    "avatar": "/images/avatar_38.png",
+    "score": 0,
+    "hash": "7e7473fad89c45587642b2dcdfa3079e"
+  }
+}

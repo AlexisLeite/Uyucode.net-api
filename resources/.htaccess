@@ -1,0 +1,3 @@
+RewriteEngine on
+
+RewriteRule	^(.*)$	/?route=$1	[L,QSA,NC]
